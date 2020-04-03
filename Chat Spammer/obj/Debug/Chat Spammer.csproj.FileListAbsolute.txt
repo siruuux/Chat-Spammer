@@ -1,0 +1,11 @@
+C:\Users\Marlo\source\repos\Visual Studio\Chat Spammer\Chat Spammer\bin\Debug\Chat Spammer.exe.config
+C:\Users\Marlo\source\repos\Visual Studio\Chat Spammer\Chat Spammer\bin\Debug\Chat Spammer.exe
+C:\Users\Marlo\source\repos\Visual Studio\Chat Spammer\Chat Spammer\bin\Debug\Chat Spammer.pdb
+C:\Users\Marlo\source\repos\Visual Studio\Chat Spammer\Chat Spammer\obj\Debug\Chat Spammer.csprojAssemblyReference.cache
+C:\Users\Marlo\source\repos\Visual Studio\Chat Spammer\Chat Spammer\obj\Debug\Chat_Spammer.Form1.resources
+C:\Users\Marlo\source\repos\Visual Studio\Chat Spammer\Chat Spammer\obj\Debug\Chat_Spammer.Properties.Resources.resources
+C:\Users\Marlo\source\repos\Visual Studio\Chat Spammer\Chat Spammer\obj\Debug\Chat Spammer.csproj.GenerateResource.cache
+C:\Users\Marlo\source\repos\Visual Studio\Chat Spammer\Chat Spammer\obj\Debug\Chat Spammer.csproj.CoreCompileInputs.cache
+C:\Users\Marlo\source\repos\Visual Studio\Chat Spammer\Chat Spammer\obj\Debug\Chat Spammer.exe
+C:\Users\Marlo\source\repos\Visual Studio\Chat Spammer\Chat Spammer\obj\Debug\Chat Spammer.pdb
+C:\Users\Marlo\source\repos\Visual Studio\Chat Spammer\Chat Spammer\obj\Debug\Chat_Spammer.FormsHelpPopUp.resources
